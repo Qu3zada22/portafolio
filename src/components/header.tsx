@@ -20,7 +20,7 @@ export default function Header() {
     }`}>
       <div className="container mx-auto px-4 flex justify-between items-center">
         <div className="text-white font-bold text-2xl">
-          <span className="text-cyan-300">Ocean</span>Portfolio
+          <span className="text-cyan-300">Anggie</span>Portfolio
         </div>
         
         <nav className="hidden md:flex space-x-8">
