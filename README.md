@@ -1,3 +1,6 @@
+** Portafolio desde servidor**
+
+link: https://calicheoficial.lat/Anggie/Porta/
 
 ```markdown
 # Portafolio Personal
@@ -14,8 +17,6 @@ cd [portafolio]
 npm install
 npm run dev
 ```
-
-**Nota importante:** En el servidor de la clase he subido una versión comprimida (ZIP) de este portafolio, ya que el proyecto completo es demasiado pesado y quiero evitar posibles caídas del servidor. Sin embargo, para tener la experiencia completa con todas las funcionalidades, recomiendo clonar el repositorio como se indica arriba.
 
 ## Características principales
 - Desarrollado con Next.js para renderizado óptimo
