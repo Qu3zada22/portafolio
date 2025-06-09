@@ -9,7 +9,7 @@ Este es el repositorio de mi portafolio personal desarrollado con Next.js y Type
 Para poder visualizar correctamente el portafolio, es necesario clonar este repositorio y seguir los pasos de instalación:
 
 ```bash
-git clone git@github.com:Qu3zada22/portafolio.git
+git clone git@github.com:Qu3zada22/portafolio.git   (si se hace con SSH)
 cd [portafolio]
 npm install
 npm run dev
